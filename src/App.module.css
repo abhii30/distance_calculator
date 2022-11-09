@@ -1,0 +1,20 @@
+.App {
+
+}
+
+header {
+  background-color: aquamarine;
+  font-size: xx-large;
+  padding: 0% 3%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  background-color: aquamarine;
+  margin: 5% 0%;
+  height: 20%;
+  padding: 2%;
+  vertical-align: middle;
+  border-radius: 10px;
+}
